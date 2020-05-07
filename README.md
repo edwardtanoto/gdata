@@ -12,5 +12,4 @@ After the database was complete, I used the data from mylife.db to create a grap
 ## Generate the images
 I used cv to generate the images and make it a video.
 
-## You can download the files, and check out the word_images_1yrwin_1dslide folder, video.avi will show all the data time to time.
 
