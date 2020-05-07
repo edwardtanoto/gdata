@@ -10,6 +10,6 @@ I downloaded the file as html format so I had to do a bit of web scraping. I goo
 After the database was complete, I used the data from mylife.db to create a graph with matplotlib and numpy.
 1471 images were created from 2015 to 2019 with images.py
 ## Generate the images
-I used cv to generate the images and make it a video.
+I used opencv to generate the images and make it a video.
 
 
